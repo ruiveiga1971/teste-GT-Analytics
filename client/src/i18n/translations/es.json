@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Acerca",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "priceEstimator": "Presupuesto"
+  },
+  "home": {
+    "hero": {
+      "title": "Estadística para Tesis y Disertaciones",
+      "subtitle": "Apoyo especializado en análisis de datos cuantitativos para estudiantes de maestría y doctorado",
+      "cta": "Solicitar Presupuesto"
+    },
+    "whyGT": {
+      "title": "¿Por qué GT Analytics?",
+      "academicSpecialization": {
+        "title": "Especialización Académica",
+        "description": "Experiencia profesional en ambiente académico y publicaciones científicas en revistas con factor de impacto"
+      },
+      "speedDeadlines": {
+        "title": "Rapidez y Plazos",
+        "description": "Sólido compromiso con sus plazos."
+      },
+      "confidentiality": {
+        "title": "Confidencialidad Total",
+        "description": "Garantía de confidencialidad absoluta de sus datos y trabajo. Su privacidad y originalidad son prioridades obligatorias."
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Nuestros Servicios",
+      "subtitle": "GT Analytics ofrece diferentes servicios y planes para análisis de datos cuantitativos adaptados a las necesidades de su trabajo académico o científico",
+      "cta": "Simular Presupuesto"
+    },
+    "consultation": {
+      "title": "Consultoría",
+      "features": [
+        "Alineación entre pregunta de investigación y objetivos",
+        "Definición del análisis de datos necesario para responder a los objetivos",
+        "Explicación de los resultados"
+      ]
+    },
+    "dataAnalysis": {
+      "title": "Análisis de Datos",
+      "description": "Análisis de datos cuantitativos para responder a los objetivos de su trabajo académico o estudio científico",
+      "priceListButton": "Precios por Servicio Individual",
+      "viewPlansButton": "Ver Planes",
+      "hidePlansButton": "Ocultar Planes"
+    }
+  },
+  "faq": {
+    "hero": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Aclaramos las dudas más comunes sobre nuestros servicios de análisis estadístico"
+    },
+    "questions": {
+      "confidential": {
+        "question": "¿Es confidencial el servicio?",
+        "answer": "Sí, garantizamos confidencialidad absoluta de sus datos y trabajo. Todos los proyectos se tratan con total confidencialidad y los archivos se eliminan tras completar el servicio. Nunca compartimos información con terceros y respetamos rigurosamente la privacidad de nuestros clientes."
+      },
+      "pricing": {
+        "question": "¿Cómo se calcula el precio?",
+        "answer": "El precio depende de la complejidad del análisis, número de variables, tipo de métodos estadísticos necesarios y urgencia del proyecto. Cada proyecto recibe un presupuesto personalizado y justo basado en precios de servicios individuales. O puede optar por uno de nuestros planes. No hay costos ocultos y el costo final es fijo tras la aprobación."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Póngase en Contacto",
+      "subtitle": "Complete el formulario a continuación y reciba su presupuesto gratuito",
+      "promptText": "Complete el formulario a continuación y reciba su presupuesto gratuito"
+    }
+  },
+  "priceEstimator": {
+    "hero": {
+      "title": "Simulador de Presupuesto",
+      "subtitle": "Obtenga una estimación inicial del costo de su análisis estadístico.",
+      "description": "Propuesta de presupuesto formal gratuita después de recibir su solicitud"
+    },
+    "steps": {
+      "step1": {
+        "title": "Paso 1: Preparación de la Base de Datos",
+        "subtitle": "¿Su base de datos ya está lista para análisis o necesita tratamiento previo (limpieza y organización)?",
+        "options": {
+          "ready": "Sí, la base de datos está lista para trabajar en SPSS o R (ej.: las variables están codificadas).",
+          "needs_prep_header": "No, necesito el servicio complementario de preparación de la base de datos, que incluye:",
+          "needs_prep_list": [
+            "Verificación y tratamiento de valores faltantes",
+            "Corrección de errores de tipeo",
+            "Codificación o recodificación de variables"
+          ],
+          "database_size_question": "Mi base de datos tiene",
+          "needs_prep_small": "Hasta 250 filas (55€)",
+          "needs_prep_medium": "Entre 251 y 500 filas (85€)",
+          "needs_prep_large": "Más de 500 filas (125€)",
+          "unsure": "No estoy seguro. ¿Pueden analizar mi base de datos y decir si necesita preparación? (125€)"
+        }
+      },
+      "step2": {
+        "title": "Paso 2: Objetivo Principal del Análisis",
+        "subtitle": "¿Cuál es el objetivo principal de su análisis estadístico?",
+        "options": {
+          "observa": "Caracterizar la muestra y describir los datos",
+          "compara": "Comparar variables entre diferentes grupos o momentos",
+          "explica": "Analizar relaciones y predecir resultados",
+          "valida": "Analizar las propiedades psicométricas de un instrumento (escala, cuestionario)"
+        }
+      }
+    },
+    "plans": {
+      "observa": {
+        "name": "Plan Observa",
+        "subtitle": "📊 Ideal para caracterizar la muestra y describir datos",
+        "includes": [
+          "Estadística descriptiva completa: frecuencia absoluta y relativa, media, mediana, moda, desviación estándar, varianza, cuartiles, asimetría y curtosis",
+          "Resultados tabulados e interpretados para fácil inserción en trabajo académico/artículo"
+        ]
+      },
+      "compara": {
+        "name": "Plan Compara",
+        "subtitle": "⚖️ Indicado para estudios que involucran comparación entre grupos o momentos",
+        "includes": [
+          "Incluye todo del Plan Observa, más:",
+          "Pruebas de normalidad (Shapiro-Wilk, Kolmogorov-Smirnov) y homogeneidad de varianzas (Levene)",
+          "Comparación de grupos independientes (prueba t o Mann-Whitney, ANOVA o Kruskal-Wallis)",
+          "Comparación de medidas emparejadas (pre-post o repetidas)",
+          "Pruebas post-hoc cuando aplique",
+          "Resultados tabulados e interpretados para fácil inserción en trabajo académico/artículo"
+        ]
+      },
+      "explica": {
+        "name": "Plan Explica",
+        "subtitle": "🧩 Recomendado para quienes necesitan analizar relaciones y predecir resultados",
+        "includes": [
+          "Incluye todo de los Planes Observa y Compara, más:",
+          "Análisis de asociación entre variables (Chi-cuadrado, correlación de Pearson/Spearman)",
+          "Regresión lineal simple y múltiple (sin límite en variables predictoras)",
+          "Regresión logística binaria, si aplica (sin límite en variables predictoras)",
+          "Modelos de regresión jerárquica (si aplica)",
+          "Verificación de supuestos estadísticos y calidad de ajuste de modelos",
+          "Resultados tabulados e interpretados para fácil inserción en trabajo académico/artículo"
+        ]
+      },
+      "valida": {
+        "name": "Plan Valida",
+        "subtitle": "🔬 Diseñado para estudios que involucran desarrollo o validación de instrumentos",
+        "includes": [
+          "Incluye todo de los Planes Observa, Compara y Explica si aplica, más:",
+          "Análisis Factorial Exploratorio (AFE) – identificación de dimensiones del instrumento",
+          "Análisis Factorial Confirmatorio (AFC) – validación de estructura factorial del instrumento",
+          "Evaluación de calidad de ajuste local",
+          "Análisis de validez convergente y discriminante",
+          "Consistencia interna (Alfa de Cronbach) global y por dimensión",
+          "Resultados tabulados e interpretados para fácil inserción en trabajo académico/artículo"
+        ]
+      }
+    },
+    "result": {
+      "title": "Su selección",
+      "extraService": "Servicio Extra",
+      "totalCost": "Costo Total Estimado",
+      "includes": "Servicios incluidos"
+    },
+    "form": {
+      "title": "Recibir Propuesta Formal",
+      "fields": {
+        "nome": {
+          "label": "Nombre y apellido *",
+          "error": "El nombre debe tener al menos 2 caracteres"
+        },
+        "email": {
+          "label": "Email *",
+          "error": "Email inválido"
+        },
+        "telefone": {
+          "label": "Teléfono"
+        },
+        "nivel": {
+          "label": "Nivel Académico *",
+          "placeholder": "Seleccione nivel",
+          "error": "Seleccione nivel académico"
+        },
+        "area": {
+          "label": "Área de Estudio *",
+          "placeholder": "Ej.: Psicología, Ingeniería, Medicina, Enfermería...",
+          "error": "El área de estudio es obligatoria"
+        },
+        "descricao": {
+          "label": "Breve descripción de lo que necesita *",
+          "placeholder": "Describa brevemente sus datos, objetivos e información adicional",
+          "error": "La descripción debe tener al menos 10 caracteres"
+        },
+        "files": {
+          "label": "Adjuntar Archivos (Opcional - máximo 25MB)"
+        }
+      },
+      "button": {
+        "send": "Recibir Propuesta Formal",
+        "loading": "Enviando..."
+      },
+      "privacy": "Al enviar este formulario, acepta el procesamiento de sus datos para fines de presupuesto.",
+      "messages": {
+        "success": {
+          "title": "¡Propuesta enviada con éxito!",
+          "description": "Recibirá la propuesta formal detallada."
+        },
+        "error": {
+          "title": "Error al enviar propuesta",
+          "description": "Inténtelo de nuevo o contáctenos directamente por email."
+        }
+      }
+    },
+    "guarantees": {
+      "title": "Garantías",
+      "subtitle": "Compromisos con todos los clientes",
+      "items": {
+        "pricing": {
+          "title": "Precios transparentes",
+          "description": "Precios transparentes individuales y de paquetes de servicios"
+        },
+        "confidentiality": {
+          "title": "Confidencialidad Total",
+          "description": "Confidencialidad absoluta de sus datos y trabajo académico"
+        },
+        "quality": {
+          "title": "Calidad Garantizada",
+          "description": "Formación avanzada en estadística\nExperiencia en investigación\nSoftware profesional"
+        }
+      }
+    }
+  }
+}

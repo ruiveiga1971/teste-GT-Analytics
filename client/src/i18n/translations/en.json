@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "priceEstimator": "Quote"
+  },
+  "home": {
+    "hero": {
+      "title": "Statistics for Theses and Dissertations",
+      "subtitle": "Specialized support in quantitative data analysis for master's and doctoral students",
+      "cta": "Request Quote"
+    },
+    "whyGT": {
+      "title": "Why GT Analytics?",
+      "academicSpecialization": {
+        "title": "Academic Specialization",
+        "description": "Professional experience in academic environment and scientific publications in impact factor journals"
+      },
+      "speedDeadlines": {
+        "title": "Speed and Deadlines",
+        "description": "Solid commitment to your deadlines."
+      },
+      "confidentiality": {
+        "title": "Total Confidentiality",
+        "description": "Guarantee of absolute confidentiality of your data and work. Your privacy and originality are mandatory priorities."
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "GT Analytics offers different services and plans for quantitative data analysis tailored to the needs of your academic or scientific work",
+      "cta": "Simulate Quote"
+    },
+    "consultation": {
+      "title": "Consultation",
+      "features": [
+        "Alignment between research question and objectives",
+        "Definition of data analysis necessary to answer objectives",
+        "Explanation of results"
+      ]
+    },
+    "dataAnalysis": {
+      "title": "Data Analysis",
+      "description": "Analysis of quantitative data to answer the objectives of your academic work or scientific study",
+      "priceListButton": "Individual Service Pricing",
+      "viewPlansButton": "View Plans",
+      "hidePlansButton": "Hide Plans"
+    }
+  },
+  "faq": {
+    "hero": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "We clarify the most common doubts about our statistical analysis services"
+    },
+    "questions": {
+      "confidential": {
+        "question": "Is the service confidential?",
+        "answer": "Yes, we guarantee absolute confidentiality of your data and work. All projects are treated with total confidentiality and files are deleted after service completion. We never share information with third parties and strictly respect our clients' privacy."
+      },
+      "pricing": {
+        "question": "How is the price calculated?",
+        "answer": "The price depends on the complexity of the analysis, number of variables, type of statistical methods needed and project urgency. Each project receives a personalized and fair quote based on individual service pricing. Or you can choose one of our plans. There are no hidden costs and the final cost is fixed after approval."
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch",
+      "subtitle": "Fill out the form below and receive your free quote",
+      "promptText": "Fill out the form below and receive your free quote"
+    }
+  },
+  "priceEstimator": {
+    "hero": {
+      "title": "Price Simulator",
+      "subtitle": "Get an initial estimate of the cost of your statistical analysis.",
+      "description": "Free formal quote proposal after receiving your request"
+    },
+    "steps": {
+      "step1": {
+        "title": "Step 1: Database Preparation",
+        "subtitle": "Is your database ready for analysis or does it need prior treatment (cleaning and organization)?",
+        "options": {
+          "ready": "Yes, the database is ready to be worked on in SPSS or R (e.g., variables are coded).",
+          "needs_prep_header": "No, I need the complementary database preparation service, which includes:",
+          "needs_prep_list": [
+            "Verification and treatment of missing values",
+            "Correction of typing errors",
+            "Coding or recoding of variables"
+          ],
+          "database_size_question": "My database has",
+          "needs_prep_small": "Up to 250 rows (55€)",
+          "needs_prep_medium": "Between 251 and 500 rows (85€)",
+          "needs_prep_large": "More than 500 rows (125€)",
+          "unsure": "I'm not sure. Can you analyze my database and tell me if it needs preparation? (125€)"
+        }
+      },
+      "step2": {
+        "title": "Step 2: Main Analysis Objective",
+        "subtitle": "What is the main objective of your statistical analysis?",
+        "options": {
+          "observa": "Characterize the sample and describe the data",
+          "compara": "Compare variables between different groups or moments",
+          "explica": "Analyze relationships and predict results",
+          "valida": "Analyze the psychometric properties of an instrument (scale, questionnaire)"
+        }
+      }
+    },
+    "plans": {
+      "observa": {
+        "name": "Observe Plan",
+        "subtitle": "📊 Ideal for characterizing the sample and describing data",
+        "includes": [
+          "Complete descriptive statistics: absolute and relative frequency, mean, median, mode, standard deviation, variance, quartiles, skewness and kurtosis",
+          "Results tabulated and interpreted for easy insertion in academic work/article"
+        ]
+      },
+      "compara": {
+        "name": "Compare Plan",
+        "subtitle": "⚖️ Indicated for studies involving comparison between groups or moments",
+        "includes": [
+          "Includes everything from Observe Plan, plus:",
+          "Normality tests (Shapiro-Wilk, Kolmogorov-Smirnov) and homogeneity of variances (Levene)",
+          "Independent group comparison (t-test or Mann-Whitney, ANOVA or Kruskal-Wallis)",
+          "Paired measures comparison (pre-post or repeated)",
+          "Post-hoc tests when applicable",
+          "Results tabulated and interpreted for easy insertion in academic work/article"
+        ]
+      },
+      "explica": {
+        "name": "Explain Plan",
+        "subtitle": "🧩 Recommended for those who need to analyze relationships and predict results",
+        "includes": [
+          "Includes everything from Observe and Compare Plans, plus:",
+          "Association analysis between variables (Chi-square, Pearson/Spearman correlation)",
+          "Simple and multiple linear regression (no limit on predictor variables)",
+          "Binary logistic regression, if applicable (no limit on predictor variables)",
+          "Hierarchical regression models (if applicable)",
+          "Verification of statistical assumptions and model fit quality",
+          "Results tabulated and interpreted for easy insertion in academic work/article"
+        ]
+      },
+      "valida": {
+        "name": "Validate Plan",
+        "subtitle": "🔬 Designed for studies involving instrument development or validation",
+        "includes": [
+          "Includes everything from Observe, Compare and Explain Plans if applicable, plus:",
+          "Exploratory Factor Analysis (EFA) – identification of instrument dimensions",
+          "Confirmatory Factor Analysis (CFA) – validation of instrument factor structure",
+          "Local fit quality assessment",
+          "Convergent and discriminant validity analysis",
+          "Internal consistency (Cronbach's Alpha) global and by dimension",
+          "Results tabulated and interpreted for easy insertion in academic work/article"
+        ]
+      }
+    },
+    "result": {
+      "title": "Your selection",
+      "extraService": "Extra Service",
+      "totalCost": "Estimated Total Cost",
+      "includes": "Services included"
+    },
+    "form": {
+      "title": "Receive Formal Proposal",
+      "fields": {
+        "nome": {
+          "label": "First and last name *",
+          "error": "Name must have at least 2 characters"
+        },
+        "email": {
+          "label": "Email *",
+          "error": "Invalid email"
+        },
+        "telefone": {
+          "label": "Phone"
+        },
+        "nivel": {
+          "label": "Academic Level *",
+          "placeholder": "Select level",
+          "error": "Select academic level"
+        },
+        "area": {
+          "label": "Study Area *",
+          "placeholder": "E.g.: Psychology, Engineering, Medicine, Nursing...",
+          "error": "Study area is required"
+        },
+        "descricao": {
+          "label": "Brief description of what you need *",
+          "placeholder": "Briefly describe your data, objectives and additional information",
+          "error": "Description must have at least 10 characters"
+        },
+        "files": {
+          "label": "Attach Files (Optional - maximum 25MB)"
+        }
+      },
+      "button": {
+        "send": "Receive Formal Proposal",
+        "loading": "Sending..."
+      },
+      "privacy": "By submitting this form, you agree to the processing of your data for quotation purposes.",
+      "messages": {
+        "success": {
+          "title": "Proposal sent successfully!",
+          "description": "You will receive the detailed formal proposal."
+        },
+        "error": {
+          "title": "Error sending proposal",
+          "description": "Please try again or contact us directly by email."
+        }
+      }
+    },
+    "guarantees": {
+      "title": "Guarantees",
+      "subtitle": "Commitments to all clients",
+      "items": {
+        "pricing": {
+          "title": "Transparent pricing",
+          "description": "Transparent individual and service package pricing"
+        },
+        "confidentiality": {
+          "title": "Total Confidentiality",
+          "description": "Absolute confidentiality of your data and academic work"
+        },
+        "quality": {
+          "title": "Guaranteed Quality",
+          "description": "Advanced training in statistics\nResearch experience\nProfessional software"
+        }
+      }
+    }
+  }
+}
