@@ -1,0 +1,49 @@
+No simulador de orçamento, atualizar as opções do “Passo 1: Preparação da base de dados” para as seguintes:
+- Sim, a base de dados está pronta para ser trabalhada no SPSS ou no R (ex.: as variáveis estão codificadas).
+- Não, necessito do serviço complementar de preparação da base de dados, que inclui:
+•	Verificação e tratamento de valores em falta
+•	Correção de erros de digitação
+•	Codificação ou recodificação de variáveis
+A minha base de dados tem:
+- Até 250 linhas (ao selecionar nesta opção, deve aparecer no simulador 55€)
+- Entre 251 e 500 linhas (ao selecionar nesta opção, deve aparecer no simulador 85€)
+- Mais de 500 linhas (ao selecionar nesta opção, deve aparecer no simulador 125€)
+- Não tenho a certeza. Podem analisar a minha base de dados e dizer se precisa de preparação? (ao selecionar nesta opção, deve aparecer no simulador 125€)
+------------------------------------------------------------------------------------------------------------------------------
+No Passo 2, atualiza os planos com a seguinte informação:
+
+🌐 Plano Observa – 125 €
+📊 Ideal para caracterizar a amostra e descrever os dados
+Serviços incluídos:
+•	Estatística descritiva completa: frequência absoluta e relativa, média, mediana, moda, desvio-padrão, variância, quartis, assimetria e curtose
+•	Resultados tabelados e interpretados para fácil inserção no trabalho académico/artigo
+________________________________________
+🔍 Plano Compara – 295 €
+⚖️ Indicado para estudos que envolvem comparação entre grupos ou momentos
+Inclui tudo do Plano Observa, mais:
+•	Testes de normalidade (Shapiro-Wilk, Kolmogorov-Smirnov) e homogeneidade de variâncias (Levene)
+•	Comparação de grupos independentes (teste t ou Mann-Whitney, ANOVA ou Kruskal-Wallis)
+•	Comparação de medidas emparelhadas (pré-pós ou repetidas)
+•	Testes post-hoc quando aplicável
+•	Resultados tabelados e interpretados para fácil inserção no trabalho académico/artigo
+________________________________________
+📈 Plano Explica – 475 €
+🧩 Recomendado para quem precisa analisar relações e prever resultados
+Inclui tudo dos Planos Observa e Compara, mais:
+•	Análise de associação entre variáveis (Qui-quadrado, correlação de Pearson/Spearman)
+•	Regressão linear simples e múltipla (sem limite do número de variáveis preditoras)
+•	Regressão logística binária, se aplicável (sem limite do número de variáveis preditoras)
+•	Modelos de regressão hierárquica (se aplicável)
+•	Verificação de pressupostos estatísticos e qualidade de ajustamento dos modelos
+•	Resultados tabelados e interpretados para fácil inserção no trabalho académico/artigo
+________________________________________
+🧪 Plano Valida – 575 €
+🔬 Desenhado para estudos que envolvem desenvolvimento ou validação de instrumentos
+Inclui tudo dos Planos Observa, Compara e Explica se aplicável, mais:
+•	Análise Fatorial Exploratória (AFE) – identificação das dimensões do instrumento
+•	Análise Fatorial Confirmatória (AFC) – validação da estrutura fatorial do instrumento
+•	Avaliação da qualidade de ajustamento local
+•	Análise da validade convergente e discriminante
+•	Consistência interna (Alfa de Cronbach) global e por dimensão
+•	Resultados tabelados e interpretados para fácil inserção no trabalho académico/artigo
+
